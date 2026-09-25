@@ -1,0 +1,17 @@
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\bin\Debug\Shopping Mall Calculator.exe.config
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\obj\Debug\Shopping_Mall_Calculator.Resources.resources
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.vbproj.GenerateResource.Cache
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\bin\Debug\Shopping Mall Calculator.exe
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\bin\Debug\Shopping Mall Calculator.pdb
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\bin\Debug\Shopping Mall Calculator.xml
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.exe
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.xml
+C:\Users\Students\AppData\Local\Temporary Projects\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.pdb
+C:\Users\Students\Desktop\AKAMPA_VICENT\Shopping Mall Calculator\Shopping Mall Calculator\bin\Debug\Shopping Mall Calculator.exe.config
+C:\Users\Students\Desktop\AKAMPA_VICENT\Shopping Mall Calculator\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.exe
+C:\Users\Students\Desktop\AKAMPA_VICENT\Shopping Mall Calculator\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.xml
+C:\Users\Students\Desktop\AKAMPA_VICENT\Shopping Mall Calculator\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.pdb
+C:\Users\Students\Desktop\KELVIN\Shopping Mall Calculator\Shopping Mall Calculator\bin\Debug\Shopping Mall Calculator.exe.config
+C:\Users\Students\Desktop\KELVIN\Shopping Mall Calculator\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.exe
+C:\Users\Students\Desktop\KELVIN\Shopping Mall Calculator\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.xml
+C:\Users\Students\Desktop\KELVIN\Shopping Mall Calculator\Shopping Mall Calculator\obj\Debug\Shopping Mall Calculator.pdb
